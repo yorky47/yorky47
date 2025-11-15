@@ -44,13 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="49" alt="vscode logo"  />
 </div>
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yorky47&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yorky47&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ###
 
 <div align="center">
